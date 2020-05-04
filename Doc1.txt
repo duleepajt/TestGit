@@ -1,3 +1,5 @@
  Testing Git Pull Request
 Added third line from local
 Added second line
+
+Added a line while in branch1 - Should appear in branch 1
