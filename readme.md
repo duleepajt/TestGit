@@ -1,2 +1,2 @@
 Test
-$ \sum_{\forall i}{x_i^{2}} $
+$$n = x^{l + 1} - x^l$$
