@@ -1,4 +1,4 @@
 Test
-- [ ] Milk
+- [x] Milk
 - [ ] Rice
 - [ ] Eggs
