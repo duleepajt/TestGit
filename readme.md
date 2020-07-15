@@ -1,2 +1,4 @@
 Test
-$$n = x^{l + 1} - x^l$$
+\[
+ \Epsilon \epsilon \Alpha \alpha \Beta \beta \Gamma \gamma \Omega \omega
+\]
